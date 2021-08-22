@@ -1,6 +1,6 @@
 # bitcoin_ticker
 
-A new Flutter project.
+ A crypto currency price checking app which gives you realtime in various currencies such as euros or pounds or dollars.
 
 ## Getting Started
 
